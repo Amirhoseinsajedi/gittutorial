@@ -582,6 +582,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mammad Pariab](https://github.com/jkmpariab)
 - [AliReza :heart:](https://github.com/CE1381)
 - [esmokes :coffee:](https://github.com/esmokes17)
+- [Amirhoseinsajedi :programmer:](https://github.com/Amirhoseinsajedi)
 - [Pulkit](https://github.com/pulkitrock1921)
 - [Mohammad Sadegh](https://github.com/mohammadshg84) 😀
 - [Seali Mousavi :bomb: ](https://github.com/sealimousavi)
